@@ -1,6 +1,6 @@
 # Simple Note Web App
 
-This is simple Note app that can make your life easier, (I thought so :stuck_out_tongue_closed_eyes:)
+simple Note app 
 
 # Table of contents
 
@@ -149,6 +149,3 @@ It's difficult to deploy MERN. I've been searching for ways to deploy it for fre
 </li>
 </ul>
 
-## Credit
-
-Thanks to [@codinginflow](https://github.com/codinginflow) for teaching me how to create this project.
